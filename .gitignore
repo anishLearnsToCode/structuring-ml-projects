@@ -1,0 +1,10 @@
+venv
+.idea
+__pycache__
+out
+dist
+.ipynb_notebooks
+week_1/.ipynb_notebooks
+week_1/__pycache__
+week_2/.ipynb_notebooks
+week_2/__pycache__
