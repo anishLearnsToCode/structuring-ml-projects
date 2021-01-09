@@ -15,10 +15,10 @@ on Coursera. This is the third course.
 - [Certificate](#-certificate)
 
 ## Week 1
-- [Quiz: Bird Recognition in The City Of Peacetopia Case Study]()
+- [Quiz: Bird Recognition in The City Of Peacetopia Case Study](week_1/quiz-bird-recognition.md)
 
 ## Week 2
-- [Quiz: Autonomous Driving (Case Study)]()
+- [Quiz: Autonomous Driving (Case Study)](week_2/quiz-autonomous-driving.md)
 
 ## 🎓 [Certificate]()
 ![certificate](assets/certificate.png)
