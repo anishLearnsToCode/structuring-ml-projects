@@ -20,5 +20,5 @@ on Coursera. This is the third course.
 ## Week 2
 - [Quiz: Autonomous Driving (Case Study)](week_2/quiz-autonomous-driving.md)
 
-## 🎓 [Certificate]()
+## 🎓 [Certificate](https://coursera.org/verify/SX8LNSPRY6NR)
 ![certificate](assets/certificate.png)
